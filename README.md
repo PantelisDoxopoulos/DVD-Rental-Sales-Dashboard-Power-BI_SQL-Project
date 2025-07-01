@@ -63,7 +63,7 @@ This query was used to create the visual for **Top Movies by Country**.
 
 | File                             | Description                                |
 |----------------------------------|--------------------------------------------|
-| `DVD_Rental_Dashboard.pbix`     | Power BI dashboard file                    |
+| `DvdDashboard.pbix`     | Power BI dashboard file                    |
 | `assets/dashboard_screenshot.png` | Preview image of the dashboard             |
 
 ---
