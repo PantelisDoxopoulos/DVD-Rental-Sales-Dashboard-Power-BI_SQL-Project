@@ -2,9 +2,6 @@
 
 This is an interactive business intelligence dashboard created using the **DVD Rental** dataset. The dashboard explores key insights such as customer behavior, sales performance by country and city, most popular movies, and rental trends.
 
-<p align="center">
-  <img src="assets/dashboard_screenshot.png" alt="DVD Rental Dashboard" width="700"/>
-</p>
 
 ---
 
@@ -89,13 +86,6 @@ This query was used to create the visual for **Top Movies by Country**.
 
 ---
 
-## 📷 Preview
-
-<p align="center">
-  <img src="assets/dashboard_screenshot.png" alt="DVD Rental Dashboard Preview" width="700"/>
-</p>
-
----
 
 ## 📬 Contact
 
